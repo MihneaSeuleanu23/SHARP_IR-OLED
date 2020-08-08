@@ -1,0 +1,30 @@
+##Șeuleanu Mihnea-Radu## 08.08.2020
+
+Hi, everyone! This is a project that I created for my IoT(Internet of Things) path at MLSA UPB. With this project I learned various things about electronics
+and overall it helped me develop skills that I do not encounter in faculty. 
+Let's start with the beginning.
+
+
+To do this project you will need:
+-Arduino Uno with USB-B cable 
+-breadboard
+-male-male jumper wires
+-three 5V leds (green,yellow,red)
+-one piezzo buzzer
+-resistors
+-capacitors
+-SHARP Infrared Sensor
+-128x32 OLED Display
+
+If you want to learn new skills, you can use a prototyping board, a soldering iron, solder and jumper wires. This way you can make the final size of the device 
+much smaller, and without hanging wires.
+
+But, then you might ask? What does this thing do?
+Well, you might see it like a miniatural version of a car parking system and it works that way:
+Based on the distance measured using sensor values, the LEDS will blink depending on the distance from the object and also the buzzer will start buzzing at 
+different time intervals + the distance is shown on the display.
+
+P.S. Instead of SHARP sensor you can use a more traditional HC-SR04 ultrasonic sensor which I used in first step of the project but I didn't like it's 
+FOV(Field of view).
+
+Have fun! Don't stop learning!
